@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=200&section=header&text=Monger%20Gideon&fontSize=52&fontColor=060608&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&descFontColor=060608"
+  src="./banner.svg"
   alt="Monger Gideon — Freelance Full-Stack Developer and DevOps Engineer based in Lagos, Nigeria"
   width="100%"
 />
@@ -183,7 +183,7 @@ Payment gateways, SMS, email delivery, maps, identity verification, cloud storag
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mongergideon&show_icons=true&theme=transparent&title_color=C9A84C&icon_color=C9A84C&text_color=C8C8D2&border_color=1C1C26&hide_border=false&count_private=true" alt="Monger Gideon GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mongergideon&show_icons=true&theme=transparent&title_color=C9A84C&icon_color=C9A84C&text_color=C8C8D2&border_color=1C1C26&hide_border=false" alt="Monger Gideon GitHub stats" />
 &nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mongergideon&layout=compact&theme=transparent&title_color=C9A84C&text_color=C8C8D2&border_color=1C1C26&hide_border=false&langs_count=6" alt="Monger Gideon top languages" />
 
@@ -191,7 +191,7 @@ Payment gateways, SMS, email delivery, maps, identity verification, cloud storag
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Mongergideon&theme=transparent&ring=C9A84C&fire=EDD07A&currStreakLabel=C9A84C&sideLabels=C8C8D2&dates=82828E&border=1C1C26&sideNums=C8C8D2&currStreakNum=EDD07A)
+![Streak](https://streak-stats.demolab.com?user=Mongergideon&theme=transparent&ring=C9A84C&fire=EDD07A&currStreakLabel=C9A84C&sideLabels=C8C8D2&dates=82828E&border=1C1C26&sideNums=C8C8D2&currStreakNum=EDD07A)
 
 </div>
 
@@ -227,6 +227,6 @@ Payment gateways, SMS, email delivery, maps, identity verification, cloud storag
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=100&section=footer" alt="footer" width="100%" />
+<img src="./footer.svg" alt="footer" width="100%" />
 
 </div>
