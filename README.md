@@ -141,59 +141,81 @@ Payment gateways, SMS, email delivery, maps, identity verification, cloud storag
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![EAS](https://img.shields.io/badge/EAS_Build-000020?style=flat-square&logo=expo&logoColor=white)
+![EAS Build](https://img.shields.io/badge/EAS_Build-000020?style=flat-square&logo=expo&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Gluestack](https://img.shields.io/badge/Gluestack_UI-1C1C26?style=flat-square&logoColor=white)
 ![Reanimated](https://img.shields.io/badge/Reanimated-C9A84C?style=flat-square&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes_Engine-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)
+![Play Console](https://img.shields.io/badge/Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat-square&logo=apple&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-1C1C26?style=flat-square&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-C9A84C?style=flat-square&logoColor=white)
 
 ### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_10%2F11%2F12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament_3-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Filament 3](https://img.shields.io/badge/Filament_3-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit_WebRTC-C9A84C?style=flat-square&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-### Database
+### Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon.tech-000000?style=flat-square&logo=neon&logoColor=white)
+![Neon.tech](https://img.shields.io/badge/Neon.tech-000000?style=flat-square&logo=neon&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-7B36ED?style=flat-square&logo=flydotio&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner_VPS-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-
-### Payments & Identity
-![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logoColor=white)
-![Flutterwave](https://img.shields.io/badge/Flutterwave-F5A623?style=flat-square&logoColor=white)
-![Maplerad](https://img.shields.io/badge/Maplerad-C9A84C?style=flat-square&logoColor=white)
+### Auth & Security
+![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Dojah](https://img.shields.io/badge/Dojah_KYC-0C0C10?style=flat-square&logoColor=white)
 ![Prembly](https://img.shields.io/badge/Prembly_KYC-0C0C10?style=flat-square&logoColor=white)
 
----
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Certbot](https://img.shields.io/badge/Certbot_SSL-003A70?style=flat-square&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-7B36ED?style=flat-square&logo=flydotio&logoColor=white)
+![Hetzner VPS](https://img.shields.io/badge/Hetzner_VPS-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Contabo VPS](https://img.shields.io/badge/Contabo_VPS-1C1C26?style=flat-square&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
-## <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.29.0/dist/icons/bar-chart-2.svg" width="18" height="18" alt="Stats"> &nbsp;GitHub Stats
+### Cloud & Storage
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-<div align="center">
+### Payments
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logoColor=white)
+![Flutterwave](https://img.shields.io/badge/Flutterwave-F5A623?style=flat-square&logoColor=white)
+![Spotflow](https://img.shields.io/badge/Spotflow-C9A84C?style=flat-square&logoColor=white)
+![Maplerad](https://img.shields.io/badge/Maplerad-1C1C26?style=flat-square&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![OPay](https://img.shields.io/badge/OPay-1AAD19?style=flat-square&logoColor=white)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mongergideon&show_icons=true&theme=transparent&title_color=C9A84C&icon_color=C9A84C&text_color=C8C8D2&border_color=1C1C26&hide_border=false" alt="Monger Gideon GitHub stats" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mongergideon&layout=compact&theme=transparent&title_color=C9A84C&text_color=C8C8D2&border_color=1C1C26&hide_border=false&langs_count=6" alt="Monger Gideon top languages" />
+### APIs & Integrations
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Zoho SMTP](https://img.shields.io/badge/Zoho_SMTP-E42527?style=flat-square&logo=zoho&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-C9A84C?style=flat-square&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=flat-square&logoColor=white)
 
-</div>
+### Blockchain
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=Mongergideon&theme=transparent&ring=C9A84C&fire=EDD07A&currStreakLabel=C9A84C&sideLabels=C8C8D2&dates=82828E&border=1C1C26&sideNums=C8C8D2&currStreakNum=EDD07A)
-
-</div>
+### Testing & Performance
+![k6](https://img.shields.io/badge/k6_Load_Testing-7D64FF?style=flat-square&logo=k6&logoColor=white)
 
 ---
 
