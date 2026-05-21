@@ -1,0 +1,53 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0C0C10"/>
+      <stop offset="50%" stop-color="#13131C"/>
+      <stop offset="100%" stop-color="#0C0C10"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C9A84C" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#C9A84C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Top gold bar -->
+  <rect width="900" height="3" fill="#C9A84C"/>
+
+  <!-- Subtle gold glow from top -->
+  <rect width="900" height="80" fill="url(#glow)"/>
+
+  <!-- Bottom wave layer 1 -->
+  <path d="M0,168 C120,150 240,178 380,162 C520,146 660,174 800,158 C850,153 878,160 900,155 L900,200 L0,200 Z" fill="#C9A84C" opacity="0.18"/>
+
+  <!-- Bottom wave layer 2 -->
+  <path d="M0,180 C180,165 360,190 540,175 C700,162 820,182 900,172 L900,200 L0,200 Z" fill="#C9A84C" opacity="0.10"/>
+
+  <!-- Bottom gold bar -->
+  <rect y="197" width="900" height="3" fill="#C9A84C" opacity="0.4"/>
+
+  <!-- Name -->
+  <text
+    x="450" y="108"
+    font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="52"
+    font-weight="700"
+    fill="#C9A84C"
+    text-anchor="middle"
+    letter-spacing="1.5"
+  >Monger Gideon</text>
+
+  <!-- Subtitle -->
+  <text
+    x="450" y="143"
+    font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="16"
+    fill="#C8C8D2"
+    text-anchor="middle"
+    letter-spacing="0.8"
+    opacity="0.85"
+  >Full-Stack Developer &amp; DevOps Engineer</text>
+</svg>

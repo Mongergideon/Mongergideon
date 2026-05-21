@@ -1,0 +1,23 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0C0C10"/>
+      <stop offset="50%" stop-color="#13131C"/>
+      <stop offset="100%" stop-color="#0C0C10"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="100" fill="url(#bg)"/>
+
+  <!-- Top wave layer 1 -->
+  <path d="M0,38 C120,55 260,28 420,44 C580,60 720,32 900,48 L900,0 L0,0 Z" fill="#C9A84C" opacity="0.18"/>
+
+  <!-- Top wave layer 2 -->
+  <path d="M0,25 C180,40 360,18 540,32 C700,45 820,22 900,35 L900,0 L0,0 Z" fill="#C9A84C" opacity="0.10"/>
+
+  <!-- Top gold bar -->
+  <rect width="900" height="3" fill="#C9A84C" opacity="0.4"/>
+
+  <!-- Bottom gold bar -->
+  <rect y="97" width="900" height="3" fill="#C9A84C"/>
+</svg>
