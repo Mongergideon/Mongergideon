@@ -21,7 +21,6 @@
 ![Lagos](https://img.shields.io/badge/Based_In-Lagos%2C_Nigeria-C9A84C?style=flat-square&labelColor=0C0C10&color=C9A84C)&nbsp;
 ![Status](https://img.shields.io/badge/Status-Open_to_Work-3DBA6A?style=flat-square&labelColor=0C0C10)&nbsp;
 ![Focus](https://img.shields.io/badge/Focus-Mobile_%26_Web_%26_DevOps-C8C8D2?style=flat-square&labelColor=0C0C10)&nbsp;
-![Education](https://img.shields.io/badge/Studying-Information_Systems-C8C8D2?style=flat-square&labelColor=0C0C10)
 
 </div>
 
@@ -29,7 +28,7 @@
 
 ## <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.29.0/dist/icons/user.svg" width="18" height="18" alt="About"> &nbsp;About Me
 
-I'm **Godwin Gideon Oreoluwa** (Monger Gideon) — a freelance full-stack developer, DevOps engineer, and Information Systems student based in **Lagos, Nigeria**.
+I'm **Godwin Gideon Oreoluwa** (Monger Gideon) — a freelance full-stack developer and DevOps engineer based in **Lagos, Nigeria**.
 
 I work across the full product lifecycle: from architecture and database design, to building mobile and web applications, to CI/CD pipelines and production infrastructure. I operate under **Monger Gideon Tech** — a solo studio focused on shipping real, scalable products.
 
