@@ -10,7 +10,7 @@
 
 I design, build, deploy, and maintain production-ready digital products — from the first database table to the final app-store release.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Monger_Gideon_Tech-C9A84C?style=for-the-badge&labelColor=0C0C10)](https://mongergideon.com.ng)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Monger_Gideon_Tech-C9A84C?style=for-the-badge&labelColor=0C0C10)](https://mongergideontech.space/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-C9A84C?style=for-the-badge&logo=gmail&logoColor=0C0C10)](mailto:mongergideon@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347016209000)
 [![GitHub](https://img.shields.io/badge/GitHub-Mongergideon-181717?style=for-the-badge&logo=github)](https://github.com/Mongergideon)
@@ -122,53 +122,116 @@ Production infrastructure, VPS provisioning, reverse proxies, SSL, process manag
 
 ## Engineering Stack
 
-### Frontend & Mobile
+### Mobile
+
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/EAS_Build-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Gluestack_UI-1C1C26?style=flat-square" />
+<img src="https://img.shields.io/badge/Reanimated-C9A84C?style=flat-square" />
+<img src="https://img.shields.io/badge/Hermes_Engine-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white" />
+<img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat-square&logo=apple&logoColor=white" />
+</p>
+
+### Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/ShadCN_UI-1C1C26?style=flat-square" />
 <img src="https://img.shields.io/badge/Zustand-C9A84C?style=flat-square" />
 </p>
 
-### Backend & APIs
+### Backend
 
 <p>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel_10%2F11%2F12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Filament-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Filament_3-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/LiveKit_WebRTC-C9A84C?style=flat-square" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
-### Databases & Infrastructure
+### Database & ORM
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Neon-000000?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon.tech-000000?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
 </p>
 
-### Product Integrations
+### Auth & Security
+
+<p>
+<img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Dojah_KYC-0C0C10?style=flat-square" />
+<img src="https://img.shields.io/badge/Prembly_KYC-0C0C10?style=flat-square" />
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+<img src="https://img.shields.io/badge/Certbot_SSL-003A70?style=flat-square" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Fly.io-7B36ED?style=flat-square&logo=flydotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Hetzner_VPS-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
+<img src="https://img.shields.io/badge/Contabo_VPS-1C1C26?style=flat-square" />
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
+</p>
+
+### Cloud & Storage
 
 <p>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+### Payments
+
+<p>
 <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square" />
 <img src="https://img.shields.io/badge/Flutterwave-F5A623?style=flat-square" />
+<img src="https://img.shields.io/badge/Spotflow-C9A84C?style=flat-square" />
+<img src="https://img.shields.io/badge/Maplerad-1C1C26?style=flat-square" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Dojah-0C0C10?style=flat-square" />
-<img src="https://img.shields.io/badge/Prembly-0C0C10?style=flat-square" />
+<img src="https://img.shields.io/badge/OPay-1AAD19?style=flat-square" />
+</p>
+
+### APIs & Integrations
+
+<p>
+<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Zoho_SMTP-E42527?style=flat-square&logo=zoho&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-C9A84C?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=flat-square" />
+</p>
+
+### Blockchain
+
+<p>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+</p>
+
+### Testing & Performance
+
+<p>
+<img src="https://img.shields.io/badge/k6_Load_Testing-7D64FF?style=flat-square&logo=k6&logoColor=white" />
 </p>
 
 ---
